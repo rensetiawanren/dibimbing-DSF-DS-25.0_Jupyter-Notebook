@@ -94,7 +94,10 @@ Jupiter Notebook files (.ipynb)
 ## Documentation
 #### To-Do
 - [ ] Complete Workflow
-- Complete Daily Practice & Task | [x] D3-20240323 [ ] D4-20240324
+- [v] Complete Daily Practice D3-20240323
+- [v] Complete Daily Task D3-20240323
+- [ ] Complete Daily Practice D4-20240324
+- [ ] Complete Daily Task D4-20240324
 - [ ] Create Documentation Report
 
 #### Report
