@@ -89,7 +89,7 @@ This repository for exercise and  daily task Digital Skill Fair 25.0 - Data Scie
 2. Buatlah sebuah program Python yang meminta pengguna untuk memasukkan sebuah bilangan bulat. Program tersebut harus mencetak apakah bilangan tersebut ganjil atau genap.
 
 #### Mandatory Files (required)
-Jupiter Notebook files (.ipynb)
+- Jupiter Notebook files (.ipynb)
 
 ## Documentation
 #### To-Do
